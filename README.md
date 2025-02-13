@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R | SQL | MATLAB 
+- 💻 &nbsp; Python | SAS | R | SQL | MATLAB
 - 🌐 &nbsp; Machine Learning | Deep Learning | NLP | Statistic
 - 🔧 &nbsp; PyTorch | TensorFlow | Natural Language Toolkit
-- 🖥 &nbsp; AWS | Spark | Hadoop | MapReduce
+- 🖥 &nbsp; AWS | PySpark | Hadoop | MapReduce
 - 🎓 &nbsp; To be continued ...
